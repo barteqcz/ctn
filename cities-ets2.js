@@ -584,22 +584,22 @@ var country_properties = {
 };
 
 var city_properties = {
-    "prague loc": {
+    "prague (local)": {
         relative_whitenoise: 0.85,
     },
-    "brno loc": {
+    "brno (local)": {
         relative_whitenoise: 0.85,
     },
-    "ostrava loc": {
+    "ostrava (local)": {
         relative_whitenoise: 0.85,
     },
-    "katowice loc": {
+    "katowice (local)": {
         relative_whitenoise: 0.85,
     },
-    "wroclaw loc": {
+    "wroclaw (local)": {
         relative_whitenoise: 0.85,
     },
-    "krakow loc": {
+    "krakow (local)": {
         relative_whitenoise: 0.85,
     },
 };
