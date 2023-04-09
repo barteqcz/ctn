@@ -417,7 +417,7 @@ var country_properties = {
         name: "Polska",
         name_english: "Poland",
         code: "pl",
-        relative_radius: 0.8,
+        relative_radius: 0.75,
     },
     "poland-dw": {
         name: "Polska [Woj. Dolnośląskie]",
@@ -3170,14 +3170,6 @@ var cities_pm = [
         "x": "70134.7",
         "y": "120",
         "z": "16235.3"
-    },
-    {
-        "gameName": "cieszyn",
-        "realName": "Cieszyn",
-        "country": "poland",
-        "x": "29295.3",
-        "y": "128.898",
-        "z": "6348.3"
     },
     {
         "gameName": "croydon",
