@@ -596,6 +596,9 @@ var city_properties = {
     "olomouc (local)": {
         relative_whitenoise: 0.85,
     },
+    "ostrava (local)": {
+        relative_whitenoise: 0.85,
+    },
     "katowice (local)": {
         relative_whitenoise: 0.85,
     },
