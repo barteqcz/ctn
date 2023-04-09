@@ -590,7 +590,10 @@ var city_properties = {
     "brno (local)": {
         relative_whitenoise: 0.85,
     },
-    "ostrava (local)": {
+    "krakow (local)": {
+        relative_whitenoise: 0.85,
+    },
+    "olomouc (local)": {
         relative_whitenoise: 0.85,
     },
     "katowice (local)": {
