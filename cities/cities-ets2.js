@@ -573,12 +573,6 @@ var country_properties = {
 
 var city_properties = {
     // Czechia
-    "prague (local)": {
-        relative_whitenoise: 0.85,
-    },
-    "brno (local)": {
-        relative_whitenoise: 0.85,
-    },
     "ostrava (local)": {
         relative_whitenoise: 0.85,
     },
