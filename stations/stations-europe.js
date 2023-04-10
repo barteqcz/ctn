@@ -4928,6 +4928,13 @@ var stations = {
             url: "https://flucast-b01-01.flumotion.com/cope/madrid.mp3"
         },
     ],
+    "spain-murcia": [
+        {
+            name: "Wifon FM",
+            logo: "stations/images-europe/spain-madrid/wifon.png",
+            url: "https://pegasus.nucast.co.uk:2020/stream/8024/live"
+        },
+    ],
     "sweden": [
         {
             name: "SR P1",
