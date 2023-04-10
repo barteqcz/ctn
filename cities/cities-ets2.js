@@ -117,7 +117,7 @@ var country_properties = {
         name: "Česko [Hl.m. Praha]",
         name_english: "Czechia [Prague]",
         code: "cz",
-        relative_radius: 0.7,
+        relative_radius: 0.6,
     },
     "denmark": {
         name: "Danmark",
