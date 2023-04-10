@@ -495,7 +495,13 @@ var country_properties = {
         name: "España [Madrid]",
         name_english: "Spain [Madrid]",
         code: "es",
-        relative_radius: 1,
+        relative_radius: 0.85,
+    },
+    "spain-murcia": {
+        name: "España [Murcia]",
+        name_english: "Spain [Murcia]",
+        code: "es",
+        relative_radius: 0.85,
     },
     "svalbard": {
         name: "Svalbard",
@@ -6474,6 +6480,14 @@ var cities_iberia = [
         "x": "-67814.9",
         "y": "93.2773",
         "z": "63139.8"
+    },
+    {
+        "gameName": "murcia (local)",
+        "realName": "Murcia (local)",
+        "country": "spain-murcia",
+        "x": "-56251.7",
+        "y": "86.1",
+        "z": "65102.8"
     },
     {
         "gameName": "murcia",
