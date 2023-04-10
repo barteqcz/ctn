@@ -616,9 +616,6 @@ var city_properties = {
     "lodz": {
         relative_whitenoise: 0.85,
     },
-    "zgorzelec": {
-        relative_whitenoise: 0.85,
-    },
     "suwalki": {
         relative_whitenoise: 0.85,
     },
@@ -5028,14 +5025,6 @@ var cities_pm = [
         "x": "34230.9",
         "y": "45.6602",
         "z": "-24320.9"
-    },
-    {
-        "gameName": "zgorzelec",
-        "realName": "Zgorzelec",
-        "country": "poland",
-        "x": "16779.7",
-        "y": "68.9922",
-        "z": "-1715.38"
     },
     {
         "gameName": "zrenjanin",
