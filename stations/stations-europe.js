@@ -4931,8 +4931,15 @@ var stations = {
     "spain-murcia": [
         {
             name: "Wifon FM",
-            logo: "stations/images-europe/spain-madrid/wifon.png",
+            logo: "stations/images-europe/spain/wifon.png",
             url: "https://pegasus.nucast.co.uk:2020/stream/8024/live"
+        },
+    ],
+    "spain-valencia": [
+        {
+            name: "TOP Remember",
+            logo: "stations/images-europe/spain/topr875.png",
+            url: "https://eu1.lhdserver.es:3009/stream"
         },
     ],
     "sweden": [
