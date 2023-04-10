@@ -503,6 +503,12 @@ var country_properties = {
         code: "es",
         relative_radius: 0.85,
     },
+    "spain-valencia": {
+        name: "España [Valencia]",
+        name_english: "Spain [Valencia]",
+        code: "es",
+        relative_radius: 0.85,
+    },
     "svalbard": {
         name: "Svalbard",
         name_english: "Svalbard",
