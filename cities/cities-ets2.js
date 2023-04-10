@@ -6557,6 +6557,14 @@ var cities_iberia = [
         "z": "52141.6"
     },
     {
+        "gameName": "valencia (local)",
+        "realName": "Valencia (local)",
+        "country": "spain-valencia",
+        "x": "-51181.4",
+        "y": "51.6953",
+        "z": "58089.9"
+    },
+    {
         "gameName": "valencia",
         "realName": "Valencia",
         "country": "spain",
