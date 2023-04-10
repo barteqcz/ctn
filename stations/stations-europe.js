@@ -988,6 +988,11 @@ var stations = {
             logo: "stations/images-europe/czech/Rádio Blaník.png",
             url: "http://ice.abradio.cz/blanikfm128.mp3"
         },
+        {
+            name: "ZUN",
+            logo: "stations/images-europe/czech/zun.png",
+            url: "https://stream.zunradio.cz/zun3.mp3"
+        },
     ],
     "czech-brno": [
         {
