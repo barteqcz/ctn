@@ -4639,6 +4639,14 @@ var cities_pm = [
         "z": "-46319.9"
     },
     {
+        "gameName": "split (local)",
+        "realName": "Split (local)",
+        "country": "croatia",
+        "x": "22195.9",
+        "y": "76.2852",
+        "z": "41788"
+    },
+    {
         "gameName": "split",
         "realName": "Split",
         "country": "croatia",
