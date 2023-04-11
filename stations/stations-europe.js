@@ -755,9 +755,9 @@ var stations = {
             url: "http://stream.hkr.hr:8000/hkr.mp3"
         },
         {
-            name: "Narodni",
-            logo: "stations/images-europe/croatia/Narodni.png",
-            url: "http://live.narodni.hr:8059/;"
+            name: "bravo!",
+            logo: "stations/images-europe/croatia/bravo.png",
+            url: "http://c5.hostingcentar.com:8059/;"
         },
         {
             name: "Otvoreni",
