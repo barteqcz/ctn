@@ -592,7 +592,7 @@ var city_properties = {
         relative_whitenoise: 0.85,
     },
     // France
-    "strasbourg": {
+    "dijon": {
         relative_whitenoise: 0.85,
     },
     // Poland
