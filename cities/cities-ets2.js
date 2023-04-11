@@ -4231,14 +4231,6 @@ var cities_pm = [
         "z": "-71104.9"
     },
     {
-        "gameName": "osijek",
-        "realName": "Osijek",
-        "country": "croatia",
-        "x": "32009.34",
-        "y": "22.88",
-        "z": "29213.39"
-    },
-    {
         "gameName": "ostersund",
         "realName": "Östersund",
         "country": "sweden",
@@ -6993,6 +6985,15 @@ var cities_goingeast = [
 ];
 
 var cities_gapfillers = [
+    // Croatia
+    {
+        "gameName": "osijek",
+        "realName": "Osijek",
+        "country": "croatia",
+        "x": "32009.34",
+        "y": "22.88",
+        "z": "29213.39"
+    },
     // Czechia
     {
         "gameName": "nachod",
