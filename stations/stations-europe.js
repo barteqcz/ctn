@@ -1006,7 +1006,7 @@ var stations = {
             url: "https://icecast8.play.cz/freeradio128.mp3"
         },
     ],
-    "czech-ol": [
+    "czech-olomouc": [
         {
             name: "ČRo Olomouc",
             logo: "stations/images-europe/czech/crool.png",
@@ -1023,7 +1023,7 @@ var stations = {
             url: "http://icecast7.play.cz:8000/casradio128.mp3"
         },
     ],
-    "czech-ova": [
+    "czech-ostrava": [
         {
             name: "ČRo Ostrava",
             logo: "stations/images-europe/czech/croova.png",
@@ -1045,7 +1045,7 @@ var stations = {
             url: "https://icecast3.play.cz/hey-radio128.mp3"
         },
     ],
-    "czech-hlm": [
+    "czech-prague": [
         {
             name: "ČRo Praha",
             logo: "stations/images-europe/czech/praha.png",
