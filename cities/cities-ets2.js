@@ -4071,6 +4071,14 @@ var cities_pm = [
         "z": "11834.6"
     },
     {
+        "gameName": "mulhouse",
+        "realName": "Mulhouse",
+        "country": "france",
+        "x": "-13075.1",
+        "y": "102.7",
+        "z": "15601.1"
+    },
+    {
         "gameName": "narbonne",
         "realName": "Narbonne",
         "country": "france",
