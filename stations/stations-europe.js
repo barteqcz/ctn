@@ -778,12 +778,12 @@ var stations = {
         },
         {
             name: "Enter Zagreb",
-            logo: "stations/images-europe/croatia/enter.png",
+            logo: "stations/images-europe/croatia/enter.jpg",
             url: "http://live.enterzagreb.hr:8023/;"
         },
         {
             name: "Antena Zagreb",
-            logo: "stations/images-europe/croatia/antzg.png",
+            logo: "stations/images-europe/croatia/antzg.jpg",
             url: "http://live.antenazagreb.hr:8000/;"
         },
         {
