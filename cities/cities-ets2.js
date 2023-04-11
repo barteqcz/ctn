@@ -83,6 +83,30 @@ var country_properties = {
         code: "hr",
         relative_radius: 0.7,
     },
+    "croatia-zagreb": {
+        name: "Hrvatska [Zagreb]",
+        name_english: "Croatia [Zagreb]",
+        code: "hr",
+        relative_radius: 0.6,
+    },
+    "croatia-zadar": {
+        name: "Hrvatska [Zadar]",
+        name_english: "Croatia [Zadar]",
+        code: "hr",
+        relative_radius: 0.6,
+    },
+    "croatia-rijeka": {
+        name: "Hrvatska [Rijeka]",
+        name_english: "Croatia [Rijeka]",
+        code: "hr",
+        relative_radius: 0.6,
+    },
+    "croatia-split": {
+        name: "Hrvatska [Split]",
+        name_english: "Croatia [Split]",
+        code: "hr",
+        relative_radius: 0.6,
+    },
     "cyprus": {
         name: "Κύπρος",
         name_english: "Cyprus",
@@ -101,19 +125,19 @@ var country_properties = {
         code: "cz",
         relative_radius: 0.6,
     },
-    "czech-ol": {
+    "czech-olomouc": {
         name: "Česko [Olomoucký kraj]",
         name_english: "Czechia [Olomouc region]",
         code: "cz",
         relative_radius: 0.6,
     },
-    "czech-ova": {
+    "czech-ostrava": {
         name: "Česko [Moravskoslezský kraj]",
         name_english: "Czechia [Moravian-Silesian region]",
         code: "cz",
         relative_radius: 0.6,
     },
-    "czech-hlm": {
+    "czech-prague": {
         name: "Česko [Hl.m. Praha]",
         name_english: "Czechia [Prague]",
         code: "cz",
@@ -1410,7 +1434,7 @@ var cities = [
     {
         "gameName": "prague (local)",
         "realName": "Praha (local)",
-        "country": "czech-hlm",
+        "country": "czech-prague",
         "x": "14299.7",
         "y": "113.227",
         "z": "3978.97"
@@ -5097,7 +5121,7 @@ var cities_pm = [
     {
         "gameName": "olomouc",
         "realName": "Olomouc",
-        "country": "czech-ol",
+        "country": "czech-olomouc",
         "x": "25109.3",
         "y": "135.613",
         "z": "5928.35"
@@ -6929,7 +6953,7 @@ var cities_goingeast = [
     {
         "gameName": "ostrava (local)",
         "realName": "Ostrava (local)",
-        "country": "czech-ova",
+        "country": "czech-ostrava",
         "x": "28231.9",
         "y": "125.836",
         "z": "5136.1"
