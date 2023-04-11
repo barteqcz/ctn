@@ -756,7 +756,7 @@ var stations = {
         },
         {
             name: "bravo!",
-            logo: "stations/images-europe/croatia/bravo.png",
+            logo: "stations/images-europe/croatia/bravo.jpg",
             url: "http://c5.hostingcentar.com:8059/;"
         },
         {
