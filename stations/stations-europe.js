@@ -770,6 +770,50 @@ var stations = {
             url: "http://s8.iqstreaming.com:8050/stream"
         },
     ],
+    "croatia-zagreb": [
+        {
+            name: "HRT-HR Sljeme",
+            logo: "stations/images-europe/croatia/hrtsljeme.jpg",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC.aac"
+        },
+        {
+            name: "Enter Zagreb",
+            logo: "stations/images-europe/croatia/enter.png",
+            url: "http://live.enterzagreb.hr:8023/;"
+        },
+        {
+            name: "Antena Zagreb",
+            logo: "stations/images-europe/croatia/antzg.png",
+            url: "http://live.antenazagreb.hr:8000/;"
+        },
+        {
+            name: "Top Radio",
+            logo: "stations/images-europe/croatia/top.png",
+            url: "https://c5.hostingcentar.com/streams/topradio"
+        },
+        {
+            name: "Yammat FM",
+            logo: "stations/images-europe/croatia/yammat.png",
+            url: "https://stream.yammat.fm/radio/8000/yammat.mp3"
+        },
+    ],
+    "croatia-zadar": [
+        {
+            name: "HRT-HR Zadar",
+            logo: "stations/images-europe/croatia/hrtzadar.jpg",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC.aac"
+        },
+        {
+            name: "Antena Zadar",
+            logo: "stations/images-europe/croatia/antzd.png",
+            url: "http://live.antenazadar.hr:9002/;"
+        },
+        {
+            name: "Radio Dalmacija",
+            logo: "stations/images-europe/croatia/dalmacija.jpg",
+            url: "http://shoutcast.pondi.hr:8000/;"
+        },
+    ],
     "cyprus": [
         {
             name: "ΡΙΚ ΠΡΩΤΟ",
