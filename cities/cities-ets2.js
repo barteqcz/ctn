@@ -591,6 +591,10 @@ var city_properties = {
     "nachod": {
         relative_whitenoise: 0.85,
     },
+    // France
+    "strasbourg": {
+        relative_whitenoise: 0.85,
+    },
     // Poland
     "bbiala (local)": {
         relative_whitenoise: 0.85,
