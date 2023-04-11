@@ -4599,7 +4599,7 @@ var cities_pm = [
         "z": "48125.6"
     },
     {
-        "gameName": "slavonski_brod",
+        "gameName": "slavonski brod",
         "realName": "Slavonski Brod",
         "country": "croatia",
         "x": "28720.52",
