@@ -5031,6 +5031,14 @@ var cities_pm = [
         "z": "-26398.2"
     },
     {
+        "gameName": "zadar (local)",
+        "realName": "Zadar (local)",
+        "country": "croatia-zadar",
+        "x": "16302.7",
+        "y": "49.8789",
+        "z": "37473.9"
+    },
+    {
         "gameName": "zadar",
         "realName": "Zadar",
         "country": "croatia",
@@ -5039,12 +5047,20 @@ var cities_pm = [
         "z": "37473.9"
     },
     {
+        "gameName": "zagreb (local)",
+        "realName": "Zagreb (local)",
+        "country": "croatia-zagreb",
+        "x": "20594.6",
+        "y": "76.0",
+        "z": "27540.4"
+    },
+    {
         "gameName": "zagreb",
         "realName": "Zagreb",
         "country": "croatia",
-        "x": "20401.37",
-        "y": "0",
-        "z": "28447.0"
+        "x": "20594.6",
+        "y": "76.0",
+        "z": "27540.4"
     },
     {
         "gameName": "zamosc",
