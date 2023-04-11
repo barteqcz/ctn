@@ -814,6 +814,23 @@ var stations = {
             url: "http://shoutcast.pondi.hr:8000/;"
         },
     ],
+    "croatia-split": [
+        {
+            name: "HRT-HR Split",
+            logo: "stations/images-europe/croatia/hrtsplit.jpg",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC.aac"
+        },
+        {
+            name: "Radio Sunce",
+            logo: "stations/images-europe/croatia/Sunce.png",
+            url: "http://shoutcast.pondi.hr:8002/;"
+        },
+        {
+            name: "Radio Kampus",
+            logo: "stations/images-europe/croatia/kampus.jpg",
+            url: "http://136.243.21.140:9128/stream"
+        },
+    ],
     "cyprus": [
         {
             name: "ΡΙΚ ΠΡΩΤΟ",
