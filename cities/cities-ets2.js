@@ -5111,8 +5111,8 @@ var cities_pm = [
         "z": "-37363"
     },
     {
-        "gameName": "olomouc",
-        "realName": "Olomouc",
+        "gameName": "olomouc (local)",
+        "realName": "Olomouc (local)",
         "country": "czech-olomouc",
         "x": "25109.3",
         "y": "135.613",
