@@ -784,7 +784,7 @@ var stations = {
         {
             name: "Antena Zagreb",
             logo: "stations/images-europe/croatia/antzg.jpg",
-            url: "http://live.antenazagreb.hr:8000/;"
+            url: "http://c5.hostingcentar.com:8004/;"
         },
         {
             name: "Top Radio",
