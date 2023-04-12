@@ -1,4 +1,4 @@
-## Custom transmitter network for ETS2 Local Radio Mod by Koenvh.
+## Custom transmitter network for Europe to use with Local Radio Mod by Koenvh.
 
 That's my customized transmitter network for Europe. <br>
 In case you found some bug, please open a pull request <br>
