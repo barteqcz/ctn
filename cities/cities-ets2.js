@@ -7038,7 +7038,7 @@ var cities_gapfillers = [
 
 // Uncomment/comment out the appropriate lines to enable/disable support for cities from specific maps:
 
-cities = cities.concat(cities_rusmap); //RusMap cities
+cities = cities.concat(cities_rusmap); //rusMap cities
 cities = cities.concat(cities_pm); //ProMods cities
 cities = cities.concat(cities_pm_me); //ProMods Middle East cities
 cities = cities.concat(cities_fr); //France DLC
