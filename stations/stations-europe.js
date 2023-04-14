@@ -4116,7 +4116,7 @@ var stations = {
         },
         {
             name: "Radio Piekary",
-            logo: "stations/images-europe/poland/piekary.webp",
+            logo: "stations/images-europe/poland/piekary.png",
             url: "https://stream.radiopiekary.pl"
         },
         {
