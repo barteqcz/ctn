@@ -16,6 +16,6 @@ You can also just download the [source code](https://github.com/barteqcz/ctn/arc
 
 ## Why online data retrieving doesn't work?
 
-The app, currently, doesn't fully support HTTPS connection for the data retrieving. Mostly it worked, everything was okay, but the data wasn't downloaded correctly, so, for example, in-game overlay didn't work. I can't use HTTP since I use GitHub domain. As soon as the app starts using HTTPS, I will update this readme. 
+The app, currently, doesn't fully support HTTPS connection for the data retrieving. Mostly it worked, everything was okay, but the data wasn't downloaded correctly, so, for example, in-game overlay didn't work. I can't use HTTP since I'm using GitHub domain. As soon as the app starts using HTTPS, I will update this readme. 
 
 Hope you will like the work I've done, and mainly, Have fun!
