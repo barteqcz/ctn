@@ -25,14 +25,4 @@ Then, you'll have to modify the `config.js` which is in the app directory, and c
 },
 ```
 
-### Online retrieving
-
-In this case, the app will retrieve the data directly from this repository, so no need to re-download the code when an update is released. So, just modify your `config.js` like this:
-```    
-"url-prefix": "http://barteqcz.github.io/custom-transmitter-network/",
-    "ets2": {
-        "map": "http://barteqcz.github.io/custom-transmitter-network/cities/cities-ets2.js",
-        "stations": "http://barteqcz.github.io/custom-transmitter-network/stations/stations-europe.js",
-},
-```
 Hope you will like the work I've done, and mainly, Have fun!
