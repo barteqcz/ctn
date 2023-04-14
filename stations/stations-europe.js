@@ -1097,7 +1097,7 @@ var stations = {
         },
         {
             name: "Rádio Čas",
-            logo: "stations/images-europe/czechia/cas.png",
+            logo: "stations/images-europe/czechia/cas.svg",
             url: "http://icecast7.play.cz:8000/casradio128.mp3"
         },
         {
