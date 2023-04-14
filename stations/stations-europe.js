@@ -4895,97 +4895,97 @@ var stations = {
     "spain-madrid": [
         {
             name: "Dynamisradio 87.5",
-            logo: "stations/images-europe/spain-madrid/Dynamisradio 87.5.png",
+            logo: "stations/images-europe/spain/Dynamisradio 87.5.png",
             url: "https://control.streaming-pro.com:8014/stream"
         },
         {
             name: "Furiosa FM 87.7",
-            logo: "stations/images-europe/spain-madrid/Furiosa FM 87.7.png",
+            logo: "stations/images-europe/spain/Furiosa FM 87.7.png",
             url: "https://streamprivate.live:10917/live"
         },
         {
             name: "Pepe Radio 89.3",
-            logo: "stations/images-europe/spain-madrid/Pepe Radio 89.3.png",
+            logo: "stations/images-europe/spain/Pepe Radio 89.3.png",
             url: "https://server10.emitironline.com:8032/"
         },
         {
             name: "HIT FM 89.9",
-            logo: "stations/images-europe/spain-madrid/HIT FM 89.9.png",
+            logo: "stations/images-europe/spain/HIT FM 89.9.png",
             url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
         },
         {
             name: "Super Latina 90.1",
-            logo: "stations/images-europe/spain-madrid/Super Latina 90.1.png",
+            logo: "stations/images-europe/spain/Super Latina 90.1.png",
             url: "https://securestream.radioshd.info:7037/;"
         },
         {
             name: "Radio Tentación 91.4",
-            logo: "stations/images-europe/spain-madrid/Radio Tentación 91.4.png",
+            logo: "stations/images-europe/spain/Radio Tentación 91.4.png",
             url: "http://88.26.228.190:8010/;"
         },
         {
             name: "Master FM 93.7",
-            logo: "stations/images-europe/spain-madrid/Master FM 93.7.png",
+            logo: "stations/images-europe/spain/Master FM 93.7.png",
             url: "https://radios.lamaster.es:8000/madrid"
         },
         {
             name: "La Equis 95.4",
-            logo: "stations/images-europe/spain-madrid/La Equis 95.4.png",
+            logo: "stations/images-europe/spain/La Equis 95.4.png",
             url: "https://babel.ddns.net/laequis"
         },
         {
             name: "La Suegra FM 96.7",
-            logo: "stations/images-europe/spain-madrid/La Suegra FM 96.7.png",
+            logo: "stations/images-europe/spain/La Suegra FM 96.7.png",
             url: "http://131.153.56.235:9300/;"
         },
         {
             name: "TOP Radio 97.2",
-            logo: "stations/images-europe/spain-madrid/TOP Radio 97.2.png",
+            logo: "stations/images-europe/spain/TOP Radio 97.2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIOAAC_SC"
         },
         {
             name: "La Mega Estacion 98.2",
-            logo: "stations/images-europe/spain-madrid/La Mega Estacion 98.2.png",
+            logo: "stations/images-europe/spain/La Mega Estacion 98.2.png",
             url: "https://eu1.lhdserver.es:9049/stream"
         },
         {
             name: "La Viña Radio 100.2",
-            logo: "stations/images-europe/spain-madrid/La Viña Radio 100.2.png",
+            logo: "stations/images-europe/spain/La Viña Radio 100.2.png",
             url: "https://babel.ddns.net/lavina"
         },
         {
             name: "Vaughan Radio 100.4",
-            logo: "stations/images-europe/spain-madrid/Vaughan Radio 100.4.png",
+            logo: "stations/images-europe/spain/Vaughan Radio 100.4.png",
             url: "https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3"
         },
         {
             name: "MegaStarFM 100.9",
-            logo: "stations/images-europe/spain-madrid/MegaStarFM 100.9.png",
+            logo: "stations/images-europe/spain/MegaStarFM 100.9.png",
             url: "https://megastar-cope.flumotion.com/playlist.m3u8"
         },
         {
             name: "Onda Madrid 101.3",
-            logo: "stations/images-europe/spain-madrid/Onda Madrid 101.3.png",
+            logo: "stations/images-europe/spain/Onda Madrid 101.3.png",
             url: "http://media.telemadrid.es/telemadrid/ondemand/radio/entrevista%20destacada1305.mp3"
         },
         {
             name: "Kandela Te Prende 101.9",
-            logo: "stations/images-europe/spain-madrid/Kandela Te Pretende 101.9.png",
+            logo: "stations/images-europe/spain/Kandela Te Pretende 101.9.png",
             url: "http://one.cloudstreaming.eu:6158/kandela?_=1"
         },
         {
             name: "Únika FM 103.0",
-            logo: "stations/images-europe/spain-madrid/Únika FM 103.0.png",
+            logo: "stations/images-europe/spain/Únika FM 103.0.png",
             url: "https://stream.radiojar.com/7qyvpnex9vzuv"
         },
         {
             name: "Capital Radio 103.2",
-            logo: "stations/images-europe/spain-madrid/Capital Radio 103.2.png",
+            logo: "stations/images-europe/spain/Capital Radio 103.2.png",
             url: "https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3"
         },
         {
             name: "COPE Madrid 106.3",
-            logo: "stations/images-europe/spain-madrid/Cope.png",
+            logo: "stations/images-europe/spain/Cope.png",
             url: "https://flucast-b01-01.flumotion.com/cope/madrid.mp3"
         },
     ],
