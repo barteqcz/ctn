@@ -13,7 +13,7 @@ Updated and cleaned `stations-europe.js` file: Added many new stations, updated 
 
 The app will simply use the local files.
 
-Download the .zip file from [here](https://github.com/barteqcz/custom-transmitter-network/releases/latest), and unpack it inside the app directory, into a `web` folder. It'll ask you whether you wanna replace `config.js` - **YES, REPLACE IT** <br>
+Download the .zip file from [here](https://github.com/barteqcz/custom-transmitter-network/releases/latest), and unpack it inside the app directory, into a `web` folder. While copying the files, It'll ask you whether you wanna replace `config.js` - **YES, REPLACE IT** <br>
 You can also just download the [source code](https://github.com/barteqcz/ctn/archive/refs/heads/main.zip), and do this same, but additionally you can remove this `README.md`. <br>
 
 ## Why online data retrieving doesn't work?
