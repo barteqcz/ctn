@@ -988,7 +988,7 @@ var stations = {
             url: "https://sportfm-cyprus.live24.gr/sportfm-cyprus"
         },
     ],
-    "czech": [
+    "czechia": [
         {
             name: "ČRo Radiožurnál",
             logo: "stations/images-europe/czech/ČRo Radiožurnál.png",
@@ -1055,7 +1055,7 @@ var stations = {
             url: "https://stream.zunradio.cz/zun3.mp3"
         },
     ],
-    "czech-brno": [
+    "czechia-brno": [
         {
             name: "ČRo Brno",
             logo: "stations/images-europe/czech/crobrno.png",
@@ -1067,7 +1067,7 @@ var stations = {
             url: "https://icecast8.play.cz/freeradio128.mp3"
         },
     ],
-    "czech-olomouc": [
+    "czechia-olomouc": [
         {
             name: "ČRo Olomouc",
             logo: "stations/images-europe/czech/crool.png",
@@ -1084,7 +1084,7 @@ var stations = {
             url: "http://icecast7.play.cz:8000/casradio128.mp3"
         },
     ],
-    "czech-ostrava": [
+    "czechia-ostrava": [
         {
             name: "ČRo Ostrava",
             logo: "stations/images-europe/czech/croova.png",
@@ -1106,7 +1106,7 @@ var stations = {
             url: "https://icecast3.play.cz/hey-radio128.mp3"
         },
     ],
-    "czech-prague": [
+    "czechia-prague": [
         {
             name: "ČRo Praha",
             logo: "stations/images-europe/czech/cropraha.png",
