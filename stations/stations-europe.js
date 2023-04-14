@@ -4101,7 +4101,7 @@ var stations = {
         },
         {
             name: "Radio CCM",
-            logo: "stations/images-europe/poland/ccm.png",
+            logo: "stations/images-europe/poland/ccm.jpg",
             url: "https://primary.moodyradiostream.org/radioccm"
         },
         {
