@@ -1,6 +1,5 @@
 ## Custom Europe Transmitter Network for Local Radio Mod by Koenvh.
 
-That's my customized transmitter network for Europe. <br>
 In case you found some bug, which is related to the cities and/or the stations, please open a pull request.<br>
 
 ### What does this include?
@@ -24,5 +23,9 @@ Then, you'll have to modify the `config.js` which is in the app directory, and c
         "stations": "stations/stations-europe.js",
 },
 ```
+
+## Why online data retrieving doesn't work?
+
+The app, currently, doesn't fully support HTTPS connection for the data retrieving. Mostly it worked, everything was okay, but the data wasn't downloaded correctly, so, for example, in-game overlay didn't work. I can't use HTTP since I use GitHub domain. As soon as the app starts using HTTPS, I will update this readme. 
 
 Hope you will like the work I've done, and mainly, Have fun!
