@@ -1,8 +1,12 @@
 ## Custom transmitter network for Europe to use with Local Radio Mod by Koenvh.
 
 That's my customized transmitter network for Europe. <br>
-In case you found some bug, please open a pull request <br>
-Hope you will like the work I've done :) Have fun!
+In case you found some bug, which is related to the cities and/or the stations, please open a pull request.<br>
+
+### What does this include?
+
+Updated and cleaned `cities-ets2.js` file: Added new locations, removed some maps, sorted the cities to the appropiate variables etc. This configuration, by default, supports all the DLCs, and additionally rusMap, Promods and Promods Middle East. <br>
+Updated and cleaned `stations-europe.js` file: Added many new stations, updated some streams, logos and the main point is that **local stations** are added.
 
 ## Usage
 
@@ -31,3 +35,4 @@ In this case, the app will retrieve the data directly from this repository, so n
         "stations": "http://barteqcz.github.io/custom-transmitter-network/stations/stations-europe.js",
 },
 ```
+Hope you will like the work I've done, and mainly, Have fun!
