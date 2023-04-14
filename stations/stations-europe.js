@@ -991,145 +991,145 @@ var stations = {
     "czechia": [
         {
             name: "ČRo Radiožurnál",
-            logo: "stations/images-europe/czech/ČRo Radiožurnál.png",
+            logo: "stations/images-europe/czechia/ČRo Radiožurnál.png",
             url: "http://amp.cesnet.cz:8000/cro1-256.ogg"
         },
         {
             name: "ČRo Dvojka",
-            logo: "stations/images-europe/czech/ČRo Dvojka.png",
+            logo: "stations/images-europe/czechia/ČRo Dvojka.png",
             url: "http://amp.cesnet.cz:8000/cro2-256.ogg"
         },
         {
             name: "ČRo Vltava",
-            logo: "stations/images-europe/czech/ČRo Vltava.png",
+            logo: "stations/images-europe/czechia/ČRo Vltava.png",
             url: "http://amp.cesnet.cz:8000/cro3-256.ogg"
         },
         {
             name: "ČRo Plus",
-            logo: "stations/images-europe/czech/croplus.png",
+            logo: "stations/images-europe/czechia/croplus.png",
             url: "http://amp.cesnet.cz:8000/cro-plus-256.ogg"
         },
         {
             name: "Country Radio",
-            logo: "stations/images-europe/czech/Country Radio.png",
+            logo: "stations/images-europe/czechia/Country Radio.png",
             url: "http://icecast4.play.cz/country128.mp3"
         },
         {
             name: "Evropa 2",
-            logo: "stations/images-europe/czech/Evropa 2.png",
+            logo: "stations/images-europe/czechia/Evropa 2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC_SC"
         },
         {
             name: "Fajn Rádio",
-            logo: "stations/images-europe/czech/Fajn Radio.png",
+            logo: "stations/images-europe/czechia/Fajn Radio.png",
             url: "http://ice.abradio.cz/fajn128.mp3"
         },
         {
             name: "Frekvence 1",
-            logo: "stations/images-europe/czech/Frekvence 1.png",
+            logo: "stations/images-europe/czechia/Frekvence 1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC_SC"
         },
         {
             name: "Rádio Impuls",
-            logo: "stations/images-europe/czech/Rádio Impuls.png",
+            logo: "stations/images-europe/czechia/Rádio Impuls.png",
             url: "http://icecast1.play.cz:80/impuls128.mp3"
         },
         {
             name: "Radio Kiss",
-            logo: "stations/images-europe/czech/Kiss.png",
+            logo: "stations/images-europe/czechia/Kiss.png",
             url: "http://icecast4.play.cz/kiss128.mp3"
         },
         {
             name: "Rádio Beat",
-            logo: "stations/images-europe/czech/Rádio Beat.png",
+            logo: "stations/images-europe/czechia/Rádio Beat.png",
             url: "http://icecast5.play.cz/radiobeat128.mp3"
         },
         {
             name: "Rádio Blaník",
-            logo: "stations/images-europe/czech/Rádio Blaník.png",
+            logo: "stations/images-europe/czechia/Rádio Blaník.png",
             url: "http://ice.abradio.cz/blanikfm128.mp3"
         },
         {
             name: "ZUN",
-            logo: "stations/images-europe/czech/zun.png",
+            logo: "stations/images-europe/czechia/zun.png",
             url: "https://stream.zunradio.cz/zun3.mp3"
         },
     ],
     "czechia-brno": [
         {
             name: "ČRo Brno",
-            logo: "stations/images-europe/czech/crobrno.png",
+            logo: "stations/images-europe/czechia/crobrno.png",
             url: "https://rozhlas.stream/brno_mp3_128.mp3"
         },
         {
             name: "Free Radio",
-            logo: "stations/images-europe/czech/freeradio.png",
+            logo: "stations/images-europe/czechia/freeradio.png",
             url: "https://icecast8.play.cz/freeradio128.mp3"
         },
     ],
     "czechia-olomouc": [
         {
             name: "ČRo Olomouc",
-            logo: "stations/images-europe/czech/crool.png",
+            logo: "stations/images-europe/czechia/crool.png",
             url: "https://rozhlas.stream/ov_mp3_128.mp3"
         },        
         {
             name: "Rádio Haná",
-            logo: "stations/images-europe/czech/hana.png",
+            logo: "stations/images-europe/czechia/hana.png",
             url: "https://icecast8.play.cz/hana128.mp3"
         },
         {
             name: "Rádio Čas",
-            logo: "stations/images-europe/czech/cas.png",
+            logo: "stations/images-europe/czechia/cas.png",
             url: "http://icecast7.play.cz:8000/casradio128.mp3"
         },
     ],
     "czechia-ostrava": [
         {
             name: "ČRo Ostrava",
-            logo: "stations/images-europe/czech/croova.png",
+            logo: "stations/images-europe/czechia/croova.png",
             url: "https://rozhlas.stream/ov_mp3_128.mp3"
         },
         {
             name: "FRESH",
-            logo: "stations/images-europe/czech/fresh.png",
+            logo: "stations/images-europe/czechia/fresh.png",
             url: "https://icecast.beatzone.cz:8000/320.mp3"
         },
         {
             name: "Rádio Čas",
-            logo: "stations/images-europe/czech/cas.png",
+            logo: "stations/images-europe/czechia/cas.png",
             url: "http://icecast7.play.cz:8000/casradio128.mp3"
         },
         {
             name: "HeyRádio",
-            logo: "stations/images-europe/czech/hey.png",
+            logo: "stations/images-europe/czechia/hey.png",
             url: "https://icecast3.play.cz/hey-radio128.mp3"
         },
     ],
     "czechia-prague": [
         {
             name: "ČRo Praha",
-            logo: "stations/images-europe/czech/cropraha.png",
+            logo: "stations/images-europe/czechia/cropraha.png",
             url: "https://rozhlas.stream/regina_mp3_128.mp3"
         },
         {
             name: "Dance Radio Praha",
-            logo: "stations/images-europe/czech/dance.png",
+            logo: "stations/images-europe/czechia/dance.png",
             url: "https://ice.actve.net/dance-radio320.mp3"
         },
         {
             name: "Expres FM",
-            logo: "stations/images-europe/czech/expres.png",
+            logo: "stations/images-europe/czechia/expres.png",
             url: "https://icecast8.play.cz/expres128mp3"
         },
         {
             name: "Radio 1",
-            logo: "stations/images-europe/czech/r1.png",
+            logo: "stations/images-europe/czechia/r1.png",
             url: "https://icecast2.play.cz/radio1-192.mp3"
         },
         {
             name: "Classic Praha",
-            logo: "stations/images-europe/czech/classic.png",
+            logo: "stations/images-europe/czechia/classic.png",
             url: "https://icecast8.play.cz/classic128.mp3"
         },
     ],
