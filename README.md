@@ -1,4 +1,4 @@
-## Custom transmitter network for Europe to use with Local Radio Mod by Koenvh.
+## Custom Europe Transmitter Network for Local Radio Mod by Koenvh.
 
 That's my customized transmitter network for Europe. <br>
 In case you found some bug, which is related to the cities and/or the stations, please open a pull request.<br>
