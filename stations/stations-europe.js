@@ -4138,7 +4138,7 @@ var stations = {
         },
         {
             name: "Radio RAM",
-            logo: "stations/images-europe/poland/ram.webp",
+            logo: "stations/images-europe/poland/ram.svg",
             url: "http://stream4.nadaje.com:9220/ram"
         },
         {
