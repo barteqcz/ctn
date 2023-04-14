@@ -1109,7 +1109,7 @@ var stations = {
     "czech-prague": [
         {
             name: "ČRo Praha",
-            logo: "stations/images-europe/czech/praha.png",
+            logo: "stations/images-europe/czech/cropraha.png",
             url: "https://rozhlas.stream/regina_mp3_128.mp3"
         },
         {
