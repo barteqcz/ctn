@@ -12,6 +12,10 @@ Firstly, download the [Koenvh's Local Radio app](https://github.com/koenvh1/ets2
 Download the .zip file from [here](https://github.com/barteqcz/custom-transmitter-network/releases/latest), and unpack it inside the app directory, into a `web` folder. While copying the files, It'll ask you if it should replace the files - **YES, ALWAYS REPLACE ALL** <br>
 You can also just download the [source code](https://github.com/barteqcz/ctn/archive/refs/heads/main.zip), and do this same. <br>
 
+## Updater
+
+To make it easier to keep the files updated, I wrote a simple program in Python that automatically downloads the files from this repo, and replaces the outdated ones with 'em. I wanna keep my whole work open-source, so there is a mini-repo with the code of this tool: [updater tool](https://github.com/barteqcz/ctnupdater). It's very ease to use - just double-click it and it will download up-to-date files from this repo :)
+
 ## Why online data retrieving doesn't work?
 
 The app, currently, doesn't fully support HTTPS connection for the data retrieving. Mostly it worked, everything was okay, but the data wasn't downloaded correctly, so, for example, in-game overlay didn't work. I can't use HTTP since I'd be using GitHub domain, which is enforcing HTTPS. As soon as the app starts using HTTPS, I will update this readme. 
