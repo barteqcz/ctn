@@ -7,7 +7,7 @@ Updated and cleaned `stations-europe.js` file: Added many new stations, updated 
 
 ## Usage
 
-Firstly, download the <a href="https://github.com/koenvh1/ets2-local-radio" target="_blank">Koenvh's Local Radio Mod</a>
+Firstly, download the [Koenvh's Local Radio Mod](http://github.com/koenvh1/ets2-local-radio)
 
 Download the .zip file from [here](https://github.com/barteqcz/custom-transmitter-network/releases/latest), and unpack it inside the app directory, into a `web` folder. While copying the files, It'll ask you if it should replace the files - **YES, ALWAYS REPLACE ALL** <br>
 You can also just download the [source code](https://github.com/barteqcz/ctn/archive/refs/heads/main.zip), and do this same. <br>
