@@ -87,7 +87,7 @@ var country_properties = {
         name: "Hrvatska [Zagreb]",
         name_english: "Croatia [Zagreb]",
         code: "hr",
-        relative_radius: 0.6,
+        relative_radius: 0.7,
     },
     "croatia-zadar": {
         name: "Hrvatska [Zadar]",
