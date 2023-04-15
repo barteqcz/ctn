@@ -18,7 +18,7 @@ var g_skinConfig = {
     "peerJSkey": "damhc79361fhto6r",        //API key for PeerJS (remote control), no reason to change this yet
     "url-prefix": "",
     "ets2": {
-        "map": "cities/cities-ets2.js",                //What map you're using, this is base game + ProMods + Promods Middle East + rusMap.
+        "map": "cities/cities-ets2.js",                //What map you're using, this is base game + all DLC + ProMods + Promods Middle East + rusMap.
         "stations": "stations/stations-europe.js",     //What stations file to use, currently only stations-europe available.
     },
     "ats": {
