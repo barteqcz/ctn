@@ -14,7 +14,7 @@ You can also just download the [source code](https://github.com/barteqcz/ctn/arc
 
 ## Updater
 
-To make it easier to keep the files updated, I wrote a simple program in Python that automatically downloads the files from this repo, and replaces the outdated ones with 'em. I wanna keep my whole work open-source, so there is a mini-repo with the code of this tool: [updater tool](https://github.com/barteqcz/ctnupdater). It's very ease to use - just double-click it and it will download up-to-date files from this repo :)
+To make it easier to keep the files updated, I wrote a simple program in Python that automatically downloads the files from this repo, and replaces the outdated ones with 'em. I wanna keep my whole work open-source, so there is a mini-repo with the code of this tool: [downloader tool](https://github.com/barteqcz/ctndownloader). It's very ease to use - just double-click it and it will download up-to-date files from this repo :)
 
 ## Why online data retrieving doesn't work?
 
