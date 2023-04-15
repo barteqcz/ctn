@@ -4069,7 +4069,7 @@ var stations = {
             url: "https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8"
         },
     ],
-    "poland-kr": [
+    "poland-malopolskie": [
         {
             name: "Polskie Radio Kraków",
             logo: "stations/images-europe/poland/prkrakow.png",
@@ -4081,7 +4081,7 @@ var stations = {
             url: "https://stream1.dabcom.pl/rdn_mpl"
         },
     ],
-    "poland-op": [
+    "poland-opolskie": [
         {
             name: "Polskie Radio Opole",
             logo: "stations/images-europe/poland/propole.jpg",
@@ -4093,7 +4093,7 @@ var stations = {
             url: "https://sluchaj2.radiopark.biz.pl:8443/stream"
         },
     ],
-    "poland-sk": [
+    "poland-slaskie": [
         {
             name: "Polskie Radio Katowice",
             logo: "stations/images-europe/poland/prkatowice.jpg",
@@ -4125,7 +4125,7 @@ var stations = {
             url: "http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3"
         },
     ],
-    "poland-dw": [
+    "poland-dolnoslaskie": [
         {
             name: "Polskie Radio Wrocław",
             logo: "stations/images-europe/poland/prwroclaw.svg",
