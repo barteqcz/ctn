@@ -1106,7 +1106,7 @@ var stations = {
             url: "https://icecast3.play.cz/hey-radio128.mp3"
         },
     ],
-    "czechia-prague": [
+    "czechia-praha": [
         {
             name: "ČRo Praha",
             logo: "stations/images-europe/czechia/cropraha.png",
