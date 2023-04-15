@@ -437,25 +437,25 @@ var country_properties = {
         code: "pl",
         relative_radius: 0.8,
     },
-    "poland-dw": {
+    "poland-dolnoslaskie": {
         name: "Polska [Woj. Dolnośląskie]",
         name_english: "Poland [Lower Silesian Voivodeship]",
         code: "pl",
         relative_radius: 0.75,
     },
-    "poland-kr": {
+    "poland-malopolskie": {
         name: "Polska [Woj. Małopolskie]",
         name_english: "Poland [Lesser Poland Voivodeship]",
         code: "pl",
         relative_radius: 0.6,
     },
-    "poland-op": {
+    "poland-opolskie": {
         name: "Polska [Woj. Opolskie]",
         name_english: "Poland [Opole Voivodeship]",
         code: "pl",
         relative_radius: 0.6,
     },
-    "poland-sk": {
+    "poland-slaskie": {
         name: "Polska [Woj. Śląskie]",
         name_english: "Poland [Silesian Voivodeship",
         code: "pl",
@@ -1586,7 +1586,7 @@ var cities = [
     {
         "gameName": "wroclaw (local)",
         "realName": "Wrocław (local)",
-        "country": "poland-dw",
+        "country": "poland-dolnoslaskie",
         "x": "23500.3",
         "y": "120.508",
         "z": "-1890.36"
@@ -2993,7 +2993,7 @@ var cities_pm = [
     {
         "gameName": "bbiala (local)",
         "realName": "Bielsko-Biała (local)",
-        "country": "poland-sk",
+        "country": "poland-slaskie",
         "x": "31293.1",
         "y": "161.23",
         "z": "5749.52"
@@ -4185,7 +4185,7 @@ var cities_pm = [
     {
         "gameName": "opole (local)",
         "realName": "Opole (local)",
-        "country": "poland-op",
+        "country": "poland-opolskie",
         "x": "27536.9",
         "y": "139.586",
         "z": "-679.391"
@@ -6913,7 +6913,7 @@ var cities_goingeast = [
     {
         "gameName": "katowice (local)",
         "realName": "Katowice (local)",
-        "country": "poland-sk",
+        "country": "poland-slaskie",
         "x": "30728.8",
         "y": "144.246",
         "z": "2458.83"
@@ -6937,7 +6937,7 @@ var cities_goingeast = [
     {
         "gameName": "krakow (local)",
         "realName": "Kraków (local)",
-        "country": "poland-kr",
+        "country": "poland-malopolskie",
         "x": "34470.3",
         "y": "144.246",
         "z": "3249.68"
