@@ -20,5 +20,7 @@ To make it easier to keep the files updated, or generally download them, I wrote
 
 The app, currently, doesn't fully support HTTPS connection for the data retrieving. Mostly it worked, everything was okay, but the data wasn't downloaded correctly, so, for example, in-game overlay didn't work. I can't use HTTP since I'd be using GitHub domain, which is enforcing HTTPS. As soon as the app starts using HTTPS, I will update this readme. 
 
+## Reporting issues/bugs
+
 In case you found some bug, which is related to the cities and/or the stations, please open a pull request.<br>
 Hope you will like the work I've done, and mainly, Have fun!
