@@ -9,7 +9,7 @@ Updated and cleaned `stations-europe.js` file: Added many new stations, updated 
 
 Firstly, download the [Koenvh's Local Radio Mod](http://github.com/koenvh1/ets2-local-radio)
 
-Download the [downloader tool](https://github.com/barteqcz/ctndownloader/releases/latest/download/ctndownloader.exe). To make it easier to keep the files updated, or generally download them, I wrote a simple program (the one linked above) in Python that automatically downloads the files from this repo, and replaces the outdated ones with 'em. I wanna keep my whole work open-source, and that's why there is a mini-repo with the code. It's very ease to use - just double-click it and it will download up-to-date files from this repo :)
+Then, download the [downloader tool](https://github.com/barteqcz/ctndownloader/releases/latest/download/ctndownloader.exe). To make it easier to keep the files updated, or generally download them, I wrote a simple program (the one linked above) in Python that automatically downloads the files from this repo, and replaces the outdated ones with 'em. I wanna keep my whole work open-source, and that's why there is a mini-repo with the code. It's very ease to use - just double-click it and it will download up-to-date files from this repo :)
 
 ## Why online data retrieving doesn't work?
 
