@@ -4069,6 +4069,38 @@ var stations = {
             url: "https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8"
         },
     ],
+    "poland-dolnoslaskie": [
+        {
+            name: "Polskie Radio Wrocław",
+            logo: "stations/images-europe/poland/prwroclaw.svg",
+            url: "http://stream4.nadaje.com:9240/prw"
+        },
+        {
+            name: "Muzyczne Radio",
+            logo: "stations/images-europe/poland/muzyczneradio.png",
+            url: "http://stream3.nadaje.com:9000/;"
+        },
+        {
+            name: "Radio RAM",
+            logo: "stations/images-europe/poland/ram.svg",
+            url: "http://stream4.nadaje.com:9220/ram"
+        },
+        {
+            name: "Akademickie Radio LUZ",
+            logo: "stations/images-europe/poland/luz.jpg",
+            url: "http://radioluz.pwr.edu.pl:8000/luzhifi.mp3"
+        },
+        {
+            name: "Radio ELKA",
+            logo: "stations/images-europe/poland/elka.jpg",
+            url: "http://live.elka.pl:8000/elka.fm"
+        },
+        {
+            name: "Sudety 24",
+            logo: "stations/images-europe/poland/sd24.jpg",
+            url: "http://stream4.nadaje.com:15006/sudety24"
+        },
+    ],
     "poland-malopolskie": [
         {
             name: "Polskie Radio Kraków",
@@ -4123,38 +4155,6 @@ var stations = {
             name: "Radio 90",
             logo: "stations/images-europe/poland/r90.png",
             url: "http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3"
-        },
-    ],
-    "poland-dolnoslaskie": [
-        {
-            name: "Polskie Radio Wrocław",
-            logo: "stations/images-europe/poland/prwroclaw.svg",
-            url: "http://stream4.nadaje.com:9240/prw"
-        },
-        {
-            name: "Muzyczne Radio",
-            logo: "stations/images-europe/poland/muzyczneradio.png",
-            url: "http://stream3.nadaje.com:9000/;"
-        },
-        {
-            name: "Radio RAM",
-            logo: "stations/images-europe/poland/ram.svg",
-            url: "http://stream4.nadaje.com:9220/ram"
-        },
-        {
-            name: "Akademickie Radio LUZ",
-            logo: "stations/images-europe/poland/luz.jpg",
-            url: "http://radioluz.pwr.edu.pl:8000/luzhifi.mp3"
-        },
-        {
-            name: "Radio ELKA",
-            logo: "stations/images-europe/poland/elka.jpg",
-            url: "http://live.elka.pl:8000/elka.fm"
-        },
-        {
-            name: "Sudety 24",
-            logo: "stations/images-europe/poland/sd24.jpg",
-            url: "http://stream4.nadaje.com:15006/sudety24"
         },
     ],
     "portugal": [
