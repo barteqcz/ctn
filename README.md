@@ -1,5 +1,7 @@
 ## Custom Europe Transmitter Network for Local Radio Mod by Koenvh.
 
+Please, read the manual below before using :D
+
 ### What does this include?
 
 Updated and cleaned `cities-ets2.js` file: Added new locations, removed some maps, sorted the cities to the appropiate variables etc. This configuration, by default, supports all the DLCs, and additionally rusMap, Promods and Promods Middle East. <br>
