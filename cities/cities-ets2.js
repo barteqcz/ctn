@@ -137,7 +137,7 @@ var country_properties = {
         code: "cz",
         relative_radius: 0.6,
     },
-    "czechia-prague": {
+    "czechia-praha": {
         name: "Česko [Hl.m. Praha]",
         name_english: "Czechia [Prague]",
         code: "cz",
@@ -458,6 +458,12 @@ var country_properties = {
     "poland-slaskie": {
         name: "Polska [Woj. Śląskie]",
         name_english: "Poland [Silesian Voivodeship",
+        code: "pl",
+        relative_radius: 0.6,
+    },
+    "poland-mazowieckie": {
+        name: "Polska [Woj. Mazowieckie]",
+        name_english: "Poland [Masovian Voivodeship",
         code: "pl",
         relative_radius: 0.6,
     },
@@ -1434,7 +1440,7 @@ var cities = [
     {
         "gameName": "prague (local)",
         "realName": "Praha (local)",
-        "country": "czechia-prague",
+        "country": "czechia-praha",
         "x": "14299.7",
         "y": "113.227",
         "z": "3978.97"
@@ -7005,6 +7011,14 @@ var cities_goingeast = [
         "x": "36880.7",
         "y": "74.0469",
         "z": "24565.7"
+    },
+    {
+        "gameName": "warszawa (local)",
+        "realName": "Warszawa (local)",
+        "country": "poland-warszawa",
+        "x": "37353.6",
+        "y": "93.1836",
+        "z": "-9467.43"
     },
     {
         "gameName": "warszawa",
