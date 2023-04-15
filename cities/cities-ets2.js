@@ -113,31 +113,31 @@ var country_properties = {
         code: "cy",
         relative_radius: 0.5,
     },
-    "czech": {
+    "czechia": {
         name: "Česko",
         name_english: "Czechia",
         code: "cz",
         relative_radius: 0.85,
     },
-    "czech-brno": {
+    "czechia-brno": {
         name: "Česko [Jihomoravský kraj]",
         name_english: "Czechia [South Moravian region]",
         code: "cz",
         relative_radius: 0.6,
     },
-    "czech-olomouc": {
+    "czechia-olomouc": {
         name: "Česko [Olomoucký kraj]",
         name_english: "Czechia [Olomouc region]",
         code: "cz",
         relative_radius: 0.6,
     },
-    "czech-ostrava": {
+    "czechia-ostrava": {
         name: "Česko [Moravskoslezský kraj]",
         name_english: "Czechia [Moravian-Silesian region]",
         code: "cz",
         relative_radius: 0.6,
     },
-    "czech-praha": {
+    "czechia-praha": {
         name: "Česko [Hl.m. Praha]",
         name_english: "Czechia [Prague]",
         code: "cz",
@@ -776,7 +776,7 @@ var cities = [
     {
         "gameName": "brno (local)",
         "realName": "Brno (local)",
-        "country": "czech-brno",
+        "country": "czechia-brno",
         "x": "22273.8",
         "y": "64.8086",
         "z": "8964.95"
@@ -784,7 +784,7 @@ var cities = [
     {
         "gameName": "brno",
         "realName": "Brno",
-        "country": "czech",
+        "country": "czechia",
         "x": "22273.8",
         "y": "64.8086",
         "z": "8964.95"
@@ -1440,7 +1440,7 @@ var cities = [
     {
         "gameName": "prague (local)",
         "realName": "Praha (local)",
-        "country": "czech-praha",
+        "country": "czechia-praha",
         "x": "14299.7",
         "y": "113.227",
         "z": "3978.97"
@@ -1448,7 +1448,7 @@ var cities = [
     {
         "gameName": "prague",
         "realName": "Praha",
-        "country": "czech",
+        "country": "czechia",
         "x": "14299.7",
         "y": "113.227",
         "z": "3978.97"
@@ -5151,7 +5151,7 @@ var cities_pm = [
     {
         "gameName": "olomouc (local)",
         "realName": "Olomouc (local)",
-        "country": "czech-olomouc",
+        "country": "czechia-olomouc",
         "x": "25109.3",
         "y": "135.613",
         "z": "5928.35"
@@ -5159,7 +5159,7 @@ var cities_pm = [
     {
         "gameName": "olomouc",
         "realName": "Olomouc",
-        "country": "czech",
+        "country": "czechia",
         "x": "25109.3",
         "y": "135.613",
         "z": "5928.35"
@@ -5271,7 +5271,7 @@ var cities_pm = [
     {
         "gameName": "jihlava",
         "realName": "Jihlava",
-        "country": "czech",
+        "country": "czechia",
         "x": "18401.4",
         "y": "117.895",
         "z": "8814.57"
@@ -6983,7 +6983,7 @@ var cities_goingeast = [
     {
         "gameName": "ostrava (local)",
         "realName": "Ostrava (local)",
-        "country": "czech-ostrava",
+        "country": "czechia-ostrava",
         "x": "28231.9",
         "y": "125.836",
         "z": "5136.1"
@@ -6991,7 +6991,7 @@ var cities_goingeast = [
     {
         "gameName": "ostrava",
         "realName": "Ostrava",
-        "country": "czech",
+        "country": "czechia",
         "x": "28231.9",
         "y": "125.836",
         "z": "5136.1"
@@ -7015,7 +7015,7 @@ var cities_goingeast = [
     {
         "gameName": "warszawa (local)",
         "realName": "Warszawa (local)",
-        "country": "poland-warszawa",
+        "country": "poland-mazowieckie",
         "x": "37353.6",
         "y": "93.1836",
         "z": "-9467.43"
@@ -7035,7 +7035,7 @@ var cities_gapfillers = [
     {
         "gameName": "nachod",
         "realName": "Náchod",
-        "country": "czech",
+        "country": "czechia",
         "x": "19728.6",
         "y": "110.8",
         "z": "656.5"
@@ -7043,7 +7043,7 @@ var cities_gapfillers = [
     {
         "gameName": "klatovy",
         "realName": "Klatovy",
-        "country": "czech",
+        "country": "czechia",
         "x": "9873.7",
         "y": "55.9",
         "z": "6956.8"
