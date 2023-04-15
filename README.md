@@ -1,6 +1,6 @@
 ## Custom Europe Transmitter Network for Local Radio Mod by Koenvh.
 
-Please, read the manual below before using :D
+Please, read the manual below before using 😃
 
 ### What does this include?
 
