@@ -226,7 +226,7 @@ var stations = {
         {
             name: "kronehit",
             logo: "stations/images-europe/austria/KroneHit.png",
-            url: "https://secureonair.krone.at/kronehit-hp.mp3"
+            url: "https://secureonair.krone.at/kronehit-ultra-hd.aac"
         },
         {
             name: "Life Radio",
