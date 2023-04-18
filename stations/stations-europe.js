@@ -4849,7 +4849,7 @@ var stations = {
         {
             name: "Melodía FM",
             logo: "stations/images-europe/spain/Melodía FM.png",
-            url: "https://live-audio.melodia-fm.com/radio/melodiafm/master.m3u8"
+            url: "https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8"
         },
         {
             name: "Onda Cero",
