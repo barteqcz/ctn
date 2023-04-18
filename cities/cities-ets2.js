@@ -509,6 +509,24 @@ var country_properties = {
         code: "sk",
         relative_radius: 0.8,
     },
+    "slovakia-west": {
+        name: "Slovensko [Západ]",
+        name_english: "Slovakia [Western]",
+        code: "sk",
+        relative_radius: 0.7,
+    },
+    "slovakia-central": {
+        name: "Slovensko [Stred]",
+        name_english: "Slovakia [Central]",
+        code: "sk",
+        relative_radius: 0.7,
+    },
+    "slovakia-east": {
+        name: "Slovensko [Východ]",
+        name_english: "Slovakia [Eastern]",
+        code: "sk",
+        relative_radius: 0.7,
+    },
     "slovenia": {
         name: "Slovenija",
         name_english: "Slovenia",
@@ -735,6 +753,14 @@ var cities = [
     },
     {
         "gameName": "bratislava",
+        "realName": "Bratislava",
+        "country": "slovakia-west",
+        "x": "24823.3",
+        "y": "77.1289",
+        "z": "14831"
+    },
+    {
+        "gameName": "bratislava-local",
         "realName": "Bratislava",
         "country": "slovakia",
         "x": "24823.3",
@@ -6877,6 +6903,14 @@ var cities_scandinavia = [
 
 var cities_goingeast = [
     {
+        "gameName": "bystrica-local",
+        "realName": "Banská Bystrica",
+        "country": "slovakia-central",
+        "x": "32657.6",
+        "y": "100",
+        "z": "10680.5"
+    },
+    {
         "gameName": "bystrica",
         "realName": "Banská Bystrica",
         "country": "slovakia",
@@ -6931,6 +6965,14 @@ var cities_goingeast = [
         "x": "30728.8",
         "y": "144.246",
         "z": "2458.83"
+    },
+    {
+        "gameName": "kosice-local",
+        "realName": "Košice",
+        "country": "slovakia-east",
+        "x": "39843.9",
+        "y": "90",
+        "z": "10494.4"
     },
     {
         "gameName": "kosice",

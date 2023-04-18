@@ -4653,11 +4653,6 @@ var stations = {
             url: "https://icecast.stv.livebox.sk/patria_128.mp3"
         },
         {
-            name: "Rádio Regina",
-            logo: "stations/images-europe/slovakia/Rádio Regina.png",
-            url: "https://icecast.stv.livebox.sk/regina-ba_128.mp3"
-        },
-        {
             name: "Europa 2",
             logo: "stations/images-europe/slovakia/Europa 2.png",
             url: "https://stream.bauermedia.sk/europa2.mp3"
@@ -4701,6 +4696,82 @@ var stations = {
             name: "Rádio Vlna",
             logo: "stations/images-europe/slovakia/Rádio Vlna.png",
             url: "https://stream.radiovlna.sk/vlna-hi.mp3"
+        },
+    ],
+    "slovakia-west": [
+        {
+            name: "Rádio Regina Západ",
+            logo: "stations/images-europe/slovakia/Rádio Regina.png",
+            url: "https://icecast.stv.livebox.sk/regina-ba_128.mp3"
+        },
+        {
+            name: "Rádio Rock",
+            logo: "stations/images-europe/slovakia/Rádio Rock.png",
+            url: "https://stream.bauermedia.sk/rock-hi.mp3"
+        },
+        {
+            name: "Rádio Viva",
+            logo: "stations/images-europe/slovakia/Rádio Viva.png",
+            url: "http://stream.sepia.sk:8000/viva128.mp3"
+        },
+        {
+            name: "Sub FM",
+            logo: "stations/images-europe/slovakia/Sub FM.png",
+            url: "https://stream.subfm.sk/subfm.mp3"
+        },
+        {
+            name: "Trnavské Rádio",
+            logo: "stations/images-europe/slovakia/Trnavské Rádio.png",
+            url: "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske"
+        },
+    ],
+    "slovakia-central": [
+        {
+            name: "BB FM",
+            logo: "stations/images-europe/slovakia/BB FM.png",
+            url: "https://stream.bbfm.sk/bbfm128.mp3"
+        },
+        {
+            name: "Dobré Rádio",
+            logo: "stations/images-europe/slovakia/Dobré Rádio.png",
+            url: "https://stream.dobreradio.sk:9813/dobreradio.mp3"
+        },
+        {
+            name: "Rádio Beta",
+            logo: "stations/images-europe/slovakia/Rádio Beta.png",
+            url: "https://stream.radia.sk:9005/beta-490"
+        },
+        {
+            name: "Rádio Frontinus",
+            logo: "stations/images-europe/slovakia/Rádio Frontinus.png",
+            url: "https://stream.radia.sk:9001/frontinus-133"
+        },
+        {
+            name: "Rádio Regina Stred",
+            logo: "stations/images-europe/slovakia/Rádio Regina.png",
+            url: "https://icecast.stv.livebox.sk/regina-bb_128.mp3"
+        },
+        {
+            name: "Rádio WOW",
+            logo: "stations/images-europe/slovakia/Rádio WOW.png",
+            url: "http://stream.sepia.sk:8000/viva128.mp3"
+        },
+    ],
+    "slovakia-east": [
+        {
+            name: "Rádio Regina Východ",
+            logo: "stations/images-europe/slovakia/Rádio Regina.png",
+            url: "https://icecast.stv.livebox.sk/regina-ke_128.mp3"
+        },
+        {
+            name: "Rádio Šírava",
+            logo: "stations/images-europe/slovakia/Rádio Šírava.png",
+            url: "https://radioserver.online:9936/radiosirava.mp3"
+        },
+        {
+            name: "Sky Rádio",
+            logo: "stations/images-europe/slovakia/Sky Rádio.png",
+            url: "https://live.skyradio.sk/sky128"
         },
     ],
     "slovenia": [
