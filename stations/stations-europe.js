@@ -279,7 +279,7 @@ var stations = {
             url: "https://live.welle1.at:19000/live"
         },
     ],
-    "basque": [
+    "spain-basque": [
         {
             name: "Radio Euskadi",
             logo: "stations/images-europe/spain/Radio Euskadi.png",
