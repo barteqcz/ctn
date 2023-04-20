@@ -29,10 +29,10 @@ var country_properties = {
         code: "at",
         relative_radius: 1,
     },
-    "basque": {
-        name: "Euskadi",
-        name_english: "Basque Country",
-        code: "es-bas",
+    "spain-basque": {
+        name: "España [Euskadi]",
+        name_english: "Spain [Basque]",
+        code: "es",
         relative_radius: 1,
     },
     "belarus": {
@@ -71,10 +71,10 @@ var country_properties = {
         code: "bg",
         relative_radius: 0.75,
     },
-    "catalonia": {
-        name: "Catalunya",
-        name_english: "Catalonia",
-        code: "es-cat",
+    "spain-catalonia": {
+        name: "España [Catalunya]",
+        name_english: "Spain [Catalonia]",
+        code: "es",
         relative_radius: 1,
     },
     "croatia": {
@@ -3735,9 +3735,9 @@ var cities_pm = [
         "z": "-70556.7"
     },
     {
-        "gameName": "jonquera",
-        "realName": "La Jonquera",
-        "country": "spain",
+        "gameName": "jonquera (local)",
+        "realName": "La Jonquera (local)",
+        "country": "spain-catalonia",
         "x": "-33815.4",
         "y": "74.3125",
         "z": "44330"
@@ -3745,7 +3745,7 @@ var cities_pm = [
     {
         "gameName": "jonquera",
         "realName": "La Jonquera",
-        "country": "catalonia",
+        "country": "spain",
         "x": "-33815.4",
         "y": "74.3125",
         "z": "44330"
@@ -6417,6 +6417,14 @@ var cities_iberia = [
         "z": "53496.1"
     },
     {
+        "gameName": "barcelona (local)",
+        "realName": "Barcelona (local)",
+        "country": "spain-catalonia",
+        "x": "-38266.4",
+        "y": "82.9922",
+        "z": "48093.5"
+    },
+    {
         "gameName": "barcelona",
         "realName": "Barcelona",
         "country": "spain",
@@ -6425,17 +6433,9 @@ var cities_iberia = [
         "z": "48093.5"
     },
     {
-        "gameName": "barcelona",
-        "realName": "Barcelona",
-        "country": "catalonia",
-        "x": "-38266.4",
-        "y": "82.9922",
-        "z": "48093.5"
-    },
-    {
-        "gameName": "bilbao",
-        "realName": "Bilbao",
-        "country": "spain",
+        "gameName": "bilbao (local)",
+        "realName": "Bilbao (local)",
+        "country": "spain-basque",
         "x": "-58108.2",
         "y": "116.25",
         "z": "32949.6"
@@ -6443,7 +6443,7 @@ var cities_iberia = [
     {
         "gameName": "bilbao",
         "realName": "Bilbao",
-        "country": "basque",
+        "country": "spain",
         "x": "-58108.2",
         "y": "116.25",
         "z": "32949.6"
@@ -6521,9 +6521,9 @@ var cities_iberia = [
         "z": "50673.5"
     },
     {
-        "gameName": "lleida",
-        "realName": "Lleida",
-        "country": "spain",
+        "gameName": "lleida (local)",
+        "realName": "Lleida (local)",
+        "country": "spain-catalonia",
         "x": "-44866.44",
         "y": "90.86",
         "z": "46568.61"
@@ -6531,7 +6531,7 @@ var cities_iberia = [
     {
         "gameName": "lleida",
         "realName": "Lleida",
-        "country": "catalonia",
+        "country": "spain",
         "x": "-44866.44",
         "y": "90.86",
         "z": "46568.61"
