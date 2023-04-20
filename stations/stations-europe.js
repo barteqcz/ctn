@@ -282,47 +282,47 @@ var stations = {
     "basque": [
         {
             name: "Radio Euskadi",
-            logo: "stations/images-europe/basque/Radio Euskadi.png",
+            logo: "stations/images-europe/spain/Radio Euskadi.png",
             url: "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3"
         },
         {
             name: "Euskadi Irratia",
-            logo: "stations/images-europe/basque/Euskadi Irratia.png",
+            logo: "stations/images-europe/spain/Euskadi Irratia.png",
             url: "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3"
         },
         {
             name: "EITB Musika",
-            logo: "stations/images-europe/basque/EITB Musika.png",
+            logo: "stations/images-europe/spain/EITB Musika.png",
             url: "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3"
         },
         {
             name: "Arrate Irratia",
-            logo: "stations/images-europe/basque/Arrate Irratia.png",
+            logo: "stations/images-europe/spain/Arrate Irratia.png",
             url: "http://radio1.tecnicofm.com:8002/;"
         },
         {
             name: "Bizkaia Irratia",
-            logo: "stations/images-europe/basque/Bizkaia Irratia.png",
+            logo: "stations/images-europe/spain/Bizkaia Irratia.png",
             url: "https://nerbioi.radiopopular.eus/bizkaiairratia2"
         },
         {
             name: "Gaztea",
-            logo: "stations/images-europe/basque/Gaztea.png",
+            logo: "stations/images-europe/spain/Gaztea.png",
             url: "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3"
         },
         {
             name: "Naiz Irratia",
-            logo: "stations/images-europe/basque/Naiz Irratia.png",
+            logo: "stations/images-europe/spain/Naiz Irratia.png",
             url: "https://zuzenean.naiz.eus/naiz_irratia.mp3"
         },
         {
             name: "Radio Nervión",
-            logo: "stations/images-europe/basque/Radio Nervión.png",
+            logo: "stations/images-europe/spain/Radio Nervión.png",
             url: "https://radionervion.streaming-pro.com:6132/radionervion"
         },
         {
             name: "Radio Popular",
-            logo: "stations/images-europe/basque/Radio Popular.png",
+            logo: "stations/images-europe/spain/Radio Popular.png",
             url: "https://nerbioi.radiopopular.eus/radiopopular3"
         },
     ],
