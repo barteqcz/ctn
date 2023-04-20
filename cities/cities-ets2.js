@@ -1614,6 +1614,14 @@ var cities = [
         "z": "29453.3"
     },
     {
+        "gameName": "wien (local)",
+        "realName": "Wien (local)",
+        "country": "austria-vienna",
+        "x": "21298.3",
+        "y": "114.809",
+        "z": "14215.5"
+    },
+    {
         "gameName": "wien",
         "realName": "Wien",
         "country": "austria",
