@@ -29,11 +29,11 @@ var country_properties = {
         code: "at",
         relative_radius: 1,
     },
-    "spain-basque": {
-        name: "España [Euskadi]",
-        name_english: "Spain [Basque]",
-        code: "es",
-        relative_radius: 1,
+    "austria-vienna": {
+        name: "Österreich [Wien]",
+        name_english: "Austria [Vienna]",
+        code: "at",
+        relative_radius: 0.8,
     },
     "belarus": {
         name: "Беларусь",
@@ -70,12 +70,6 @@ var country_properties = {
         name_english: "Bulgaria",
         code: "bg",
         relative_radius: 0.75,
-    },
-    "spain-catalonia": {
-        name: "España [Catalunya]",
-        name_english: "Spain [Catalonia]",
-        code: "es",
-        relative_radius: 1,
     },
     "croatia": {
         name: "Hrvatska",
@@ -536,6 +530,18 @@ var country_properties = {
     "spain": {
         name: "España",
         name_english: "Spain",
+        code: "es",
+        relative_radius: 1,
+    },
+    "spain-basque": {
+        name: "España [Euskadi]",
+        name_english: "Spain [Basque]",
+        code: "es",
+        relative_radius: 1,
+    },
+    "spain-catalonia": {
+        name: "España [Catalunya]",
+        name_english: "Spain [Catalonia]",
         code: "es",
         relative_radius: 1,
     },
