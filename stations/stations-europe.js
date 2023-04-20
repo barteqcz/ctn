@@ -174,11 +174,6 @@ var stations = {
             url: "https://orf-live.ors-shoutcast.at/oe1-q2a"
         },
         {
-            name: "Radio Wien",
-            logo: "stations/images-europe/austria/Radio Wien.png",
-            url: "https://orf-live.ors-shoutcast.at/wie-q2a"
-        },
-        {
             name: "Hitradio Ö3",
             logo: "stations/images-europe/austria/Hitradio Ö3.png",
             url: "https://orf-live.ors-shoutcast.at/oe3-q2a"
@@ -279,51 +274,12 @@ var stations = {
             url: "https://live.welle1.at:19000/live"
         },
     ],
-    "spain-basque": [
+    
+    "austria-vienna": [
         {
-            name: "Radio Euskadi",
-            logo: "stations/images-europe/spain/Radio Euskadi.png",
-            url: "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3"
-        },
-        {
-            name: "Euskadi Irratia",
-            logo: "stations/images-europe/spain/Euskadi Irratia.png",
-            url: "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3"
-        },
-        {
-            name: "EITB Musika",
-            logo: "stations/images-europe/spain/EITB Musika.png",
-            url: "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3"
-        },
-        {
-            name: "Arrate Irratia",
-            logo: "stations/images-europe/spain/Arrate Irratia.png",
-            url: "http://radio1.tecnicofm.com:8002/;"
-        },
-        {
-            name: "Bizkaia Irratia",
-            logo: "stations/images-europe/spain/Bizkaia Irratia.png",
-            url: "https://nerbioi.radiopopular.eus/bizkaiairratia2"
-        },
-        {
-            name: "Gaztea",
-            logo: "stations/images-europe/spain/Gaztea.png",
-            url: "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3"
-        },
-        {
-            name: "Naiz Irratia",
-            logo: "stations/images-europe/spain/Naiz Irratia.png",
-            url: "https://zuzenean.naiz.eus/naiz_irratia.mp3"
-        },
-        {
-            name: "Radio Nervión",
-            logo: "stations/images-europe/spain/Radio Nervión.png",
-            url: "https://radionervion.streaming-pro.com:6132/radionervion"
-        },
-        {
-            name: "Radio Popular",
-            logo: "stations/images-europe/spain/Radio Popular.png",
-            url: "https://nerbioi.radiopopular.eus/radiopopular3"
+            name: "Radio Wien",
+            logo: "stations/images-europe/austria/Radio Wien.png",
+            url: "https://orf-live.ors-shoutcast.at/wie-q2a"
         },
     ],
     "belarus": [
@@ -679,58 +635,6 @@ var stations = {
             name: "Z-ROCK",
             logo: "stations/images-europe/bulgaria/Z-ROCK.png",
             url: "http://46.10.150.243/z-rock.mp3"
-        },
-    ],
-    "spain-catalonia": [
-        {
-            name: "Catalunya Ràdio",
-            logo: "stations/images-europe/spain/Catalunya Ràdio.png",
-            url: "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3"
-        },
-        {
-            name: "Catalunya Informació",
-            logo: "stations/images-europe/spain/Catalunya Informació.png",
-            url: "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3"
-        },
-        {
-            name: "Catalunya Música",
-            logo: "stations/images-europe/spain/Catalunya Música.png",
-            url: "https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3"
-        },
-        {
-            name: "iCat",
-            logo: "stations/images-europe/spain/iCat.png",
-            url: "https://shoutcast.ccma.cat/ccma/icatHD.mp3"
-        },
-        {
-            name: "Flaix FM",
-            logo: "stations/images-europe/spain/Flaix FM.png",
-            url: "https://flaixfm.streaming-pro.com:8001/flaixfm.aacp"
-        },
-        {
-            name: "Flaixbac",
-            logo: "stations/images-europe/spain/Flaixbac.png",
-            url: "https://flaixbac.streaming-pro.com:8007/flaixbac.aacp"
-        },
-        {
-            name: "RAC1",
-            logo: "stations/images-europe/spain/RAC1.png",
-            url: "https://streaming.rac1.cat/"
-        },
-        {
-            name: "RAC105",
-            logo: "stations/images-europe/spain/RAC105.png",
-            url: "https://streaming.rac105.cat/"
-        },
-        {
-            name: "Ràdio Estel",
-            logo: "stations/images-europe/spain/Ràdio Estel.png",
-            url: "https://srv6021.dns-lcinternet.com:10244/stream"
-        },
-        {
-            name: "SER Catalunya",
-            logo: "stations/images-europe/spain/SER Catalunya.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CATAAC_SC"
         },
     ],
     "croatia": [
@@ -4961,6 +4865,105 @@ var stations = {
             name: "Rock FM",
             logo: "stations/images-europe/spain/Rock FM.png",
             url: "https://rockfm-cope.flumotion.com/playlist.m3u8"
+        },
+    ],
+    "spain-basque": [
+        {
+            name: "Radio Euskadi",
+            logo: "stations/images-europe/spain/Radio Euskadi.png",
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3"
+        },
+        {
+            name: "Euskadi Irratia",
+            logo: "stations/images-europe/spain/Euskadi Irratia.png",
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3"
+        },
+        {
+            name: "EITB Musika",
+            logo: "stations/images-europe/spain/EITB Musika.png",
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3"
+        },
+        {
+            name: "Arrate Irratia",
+            logo: "stations/images-europe/spain/Arrate Irratia.png",
+            url: "http://radio1.tecnicofm.com:8002/;"
+        },
+        {
+            name: "Bizkaia Irratia",
+            logo: "stations/images-europe/spain/Bizkaia Irratia.png",
+            url: "https://nerbioi.radiopopular.eus/bizkaiairratia2"
+        },
+        {
+            name: "Gaztea",
+            logo: "stations/images-europe/spain/Gaztea.png",
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3"
+        },
+        {
+            name: "Naiz Irratia",
+            logo: "stations/images-europe/spain/Naiz Irratia.png",
+            url: "https://zuzenean.naiz.eus/naiz_irratia.mp3"
+        },
+        {
+            name: "Radio Nervión",
+            logo: "stations/images-europe/spain/Radio Nervión.png",
+            url: "https://radionervion.streaming-pro.com:6132/radionervion"
+        },
+        {
+            name: "Radio Popular",
+            logo: "stations/images-europe/spain/Radio Popular.png",
+            url: "https://nerbioi.radiopopular.eus/radiopopular3"
+        },
+    ],
+    "spain-catalonia": [
+        {
+            name: "Catalunya Ràdio",
+            logo: "stations/images-europe/spain/Catalunya Ràdio.png",
+            url: "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3"
+        },
+        {
+            name: "Catalunya Informació",
+            logo: "stations/images-europe/spain/Catalunya Informació.png",
+            url: "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3"
+        },
+        {
+            name: "Catalunya Música",
+            logo: "stations/images-europe/spain/Catalunya Música.png",
+            url: "https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3"
+        },
+        {
+            name: "iCat",
+            logo: "stations/images-europe/spain/iCat.png",
+            url: "https://shoutcast.ccma.cat/ccma/icatHD.mp3"
+        },
+        {
+            name: "Flaix FM",
+            logo: "stations/images-europe/spain/Flaix FM.png",
+            url: "https://flaixfm.streaming-pro.com:8001/flaixfm.aacp"
+        },
+        {
+            name: "Flaixbac",
+            logo: "stations/images-europe/spain/Flaixbac.png",
+            url: "https://flaixbac.streaming-pro.com:8007/flaixbac.aacp"
+        },
+        {
+            name: "RAC1",
+            logo: "stations/images-europe/spain/RAC1.png",
+            url: "https://streaming.rac1.cat/"
+        },
+        {
+            name: "RAC105",
+            logo: "stations/images-europe/spain/RAC105.png",
+            url: "https://streaming.rac105.cat/"
+        },
+        {
+            name: "Ràdio Estel",
+            logo: "stations/images-europe/spain/Ràdio Estel.png",
+            url: "https://srv6021.dns-lcinternet.com:10244/stream"
+        },
+        {
+            name: "SER Catalunya",
+            logo: "stations/images-europe/spain/SER Catalunya.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CATAAC_SC"
         },
     ],
     "spain-madrid": [
