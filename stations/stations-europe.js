@@ -681,55 +681,55 @@ var stations = {
             url: "http://46.10.150.243/z-rock.mp3"
         },
     ],
-    "catalonia": [
+    "spain-catalonia": [
         {
             name: "Catalunya Ràdio",
-            logo: "stations/images-europe/catalonia/Catalunya Ràdio.png",
+            logo: "stations/images-europe/spain/Catalunya Ràdio.png",
             url: "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3"
         },
         {
             name: "Catalunya Informació",
-            logo: "stations/images-europe/catalonia/Catalunya Informació.png",
+            logo: "stations/images-europe/spain/Catalunya Informació.png",
             url: "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3"
         },
         {
             name: "Catalunya Música",
-            logo: "stations/images-europe/catalonia/Catalunya Música.png",
+            logo: "stations/images-europe/spain/Catalunya Música.png",
             url: "https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3"
         },
         {
             name: "iCat",
-            logo: "stations/images-europe/catalonia/iCat.png",
+            logo: "stations/images-europe/spain/iCat.png",
             url: "https://shoutcast.ccma.cat/ccma/icatHD.mp3"
         },
         {
             name: "Flaix FM",
-            logo: "stations/images-europe/catalonia/Flaix FM.png",
+            logo: "stations/images-europe/spain/Flaix FM.png",
             url: "https://flaixfm.streaming-pro.com:8001/flaixfm.aacp"
         },
         {
             name: "Flaixbac",
-            logo: "stations/images-europe/catalonia/Flaixbac.png",
+            logo: "stations/images-europe/spain/Flaixbac.png",
             url: "https://flaixbac.streaming-pro.com:8007/flaixbac.aacp"
         },
         {
             name: "RAC1",
-            logo: "stations/images-europe/catalonia/RAC1.png",
+            logo: "stations/images-europe/spain/RAC1.png",
             url: "https://streaming.rac1.cat/"
         },
         {
             name: "RAC105",
-            logo: "stations/images-europe/catalonia/RAC105.png",
+            logo: "stations/images-europe/spain/RAC105.png",
             url: "https://streaming.rac105.cat/"
         },
         {
             name: "Ràdio Estel",
-            logo: "stations/images-europe/catalonia/Ràdio Estel.png",
+            logo: "stations/images-europe/spain/Ràdio Estel.png",
             url: "https://srv6021.dns-lcinternet.com:10244/stream"
         },
         {
             name: "SER Catalunya",
-            logo: "stations/images-europe/catalonia/SER Catalunya.png",
+            logo: "stations/images-europe/spain/SER Catalunya.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CATAAC_SC"
         },
     ],
