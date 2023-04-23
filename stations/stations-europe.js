@@ -725,6 +725,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC.aac"
         },
         {
+            name: "ULTRA Split",
+            logo: "stations/images-europe/croatia/ultrasplit.png",
+            url: "http://c5.hostingcentar.com:8061/;"
+        },
+        {
             name: "Radio Sunce",
             logo: "stations/images-europe/croatia/Sunce.png",
             url: "http://shoutcast.pondi.hr:8002/;"
