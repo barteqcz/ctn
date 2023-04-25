@@ -3981,7 +3981,7 @@ var stations = {
     "poland-dolnoslaskie": [
         {
             name: "Polskie Radio Wrocław",
-            logo: "stations/images-europe/poland/prwroclaw.svg",
+            logo: "stations/images-europe/poland/prwroclaw.png",
             url: "http://stream4.nadaje.com:9240/prw"
         },
         {
@@ -3991,7 +3991,7 @@ var stations = {
         },
         {
             name: "Radio RAM",
-            logo: "stations/images-europe/poland/ram.svg",
+            logo: "stations/images-europe/poland/ram.png",
             url: "http://stream4.nadaje.com:9220/ram"
         },
         {
@@ -4030,7 +4030,7 @@ var stations = {
         },
         {
             name: "Radio Park",
-            logo: "stations/images-europe/poland/park.svg",
+            logo: "stations/images-europe/poland/park.png",
             url: "https://sluchaj2.radiopark.biz.pl:8443/stream"
         },
     ],
