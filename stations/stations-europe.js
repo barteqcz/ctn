@@ -992,6 +992,11 @@ var stations = {
             logo: "stations/images-europe/czechia/cas.svg",
             url: "http://icecast7.play.cz:8000/casradio128.mp3"
         },
+        {
+            name: "Radio Metropole",
+            logo: "stations/images-europe/czechia/metro.png",
+            url: "http://icecast9.play.cz/metropole128.mp3"
+        }
     ],
     "czechia-ostrava": [
         {
