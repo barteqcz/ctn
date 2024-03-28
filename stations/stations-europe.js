@@ -931,7 +931,7 @@ var stations = {
         {
             name: "Fajn Rádio",
             logo: "stations/images-europe/czechia/Fajn Radio.png",
-            url: "http://ice.abradio.cz/fajn128.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAJN_RADIO_128.mp3"
         },
         {
             name: "Frekvence 1",
@@ -956,7 +956,7 @@ var stations = {
         {
             name: "Rádio Blaník",
             logo: "stations/images-europe/czechia/Rádio Blaník.png",
-            url: "http://ice.abradio.cz/blanikfm128.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3"
         },
         {
             name: "ZUN",
