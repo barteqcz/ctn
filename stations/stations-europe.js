@@ -963,6 +963,11 @@ var stations = {
             logo: "stations/images-europe/czechia/zun.png",
             url: "https://stream.zunradio.cz/zun3.mp3"
         },
+        {
+            name: "HeyRádio",
+            logo: "stations/images-europe/czechia/hey.png",
+            url: "https://icecast3.play.cz/hey-radio128.mp3"
+        },
     ],
     "czechia-brno": [
         {
@@ -974,6 +979,11 @@ var stations = {
             name: "Free Radio",
             logo: "stations/images-europe/czechia/freeradio.png",
             url: "https://icecast8.play.cz/freeradio128.mp3"
+        },
+        {
+            name: "Rádio Čas",
+            logo: "stations/images-europe/czechia/cas.svg",
+            url: "http://icecast7.play.cz:8000/casradio128.mp3"
         },
     ],
     "czechia-olomouc": [
@@ -1013,11 +1023,6 @@ var stations = {
             name: "Rádio Čas",
             logo: "stations/images-europe/czechia/cas.svg",
             url: "http://icecast7.play.cz:8000/casradio128.mp3"
-        },
-        {
-            name: "HeyRádio",
-            logo: "stations/images-europe/czechia/hey.png",
-            url: "https://icecast3.play.cz/hey-radio128.mp3"
         },
     ],
     "czechia-praha": [
